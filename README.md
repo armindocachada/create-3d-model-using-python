@@ -2,6 +2,7 @@
 ## How to create a 3D model of a photo using Python, NumPy and Google Colab — Part I
 
 ![Photo by ZMorph Multitool 3D Printer](https://cdn-images-1.medium.com/max/3900/1*yUZET5CWqR3yyDMHQ8gnqQ.jpeg)
+Photo by ZMorph Multitool 3D Printer
 
 I recently recorded a four-part video series for my Youtube channel on how I attempted to create a 3D model out of a photo, using Python, Numpy, and Google Colab.
 
